@@ -1,4 +1,4 @@
-# App Avancard - React Native com TypeScript
+# App Avancard 
 
 ## Descrição
 
